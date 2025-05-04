@@ -1,0 +1,14 @@
+body {background-color: black; color:#bd3919; text-align: center;}
+
+#img1 {width: 100%;}
+
+
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+.members {width: 200px}
+.indiv {width: 400px}
